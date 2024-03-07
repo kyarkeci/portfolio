@@ -1,20 +1,22 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.0ac4b3be.css",
-    "main.js": "/portfolio/static/js/main.03e5fd87.js",
+    "main.js": "/portfolio/static/js/main.b041928e.js",
     "static/media/bannerImg.png": "/portfolio/static/media/bannerImg.3f08c907466b689142b9.png",
     "static/media/logo.png": "/portfolio/static/media/logo.3f08c907466b689142b9.png",
+    "static/media/pexels-jimmy-chan-1458457.jpg": "/portfolio/static/media/pexels-jimmy-chan-1458457.ecee27ea1310479bedc3.jpg",
+    "static/media/png": "/portfolio/static/media/690cc2faf67ac0e8de90e0475be6cf1f.e56f76f49521abd91053.png",
     "static/media/contactImg.png": "/portfolio/static/media/contactImg.8ddfbfd11798f881db54.png",
     "static/media/testimonialOne.png": "/portfolio/static/media/testimonialOne.c4706b2d1cadcb9f4daf.png",
-    "static/media/projectThree.jpeg": "/portfolio/static/media/projectThree.47442baa3158613330ab.jpeg",
+    "static/media/unnamed.png": "/portfolio/static/media/unnamed.234a1f73119d6cf507e9.png",
     "static/media/testimonialTwo.png": "/portfolio/static/media/testimonialTwo.c6df2773c486964035d9.png",
-    "static/media/projectTwo.jpg": "/portfolio/static/media/projectTwo.1fabe2c8c93632187ee6.jpg",
+    "static/media/plate-fork-spoon-restaurant-logo-white-background-eps-plate-fork-spoon-restaurant-logo-193685698.webp": "/portfolio/static/media/plate-fork-spoon-restaurant-logo-white-background-eps-plate-fork-spoon-restaurant-logo-193685698.9c6cf897c5dce40706b4.webp",
     "index.html": "/portfolio/index.html",
     "main.0ac4b3be.css.map": "/portfolio/static/css/main.0ac4b3be.css.map",
-    "main.03e5fd87.js.map": "/portfolio/static/js/main.03e5fd87.js.map"
+    "main.b041928e.js.map": "/portfolio/static/js/main.b041928e.js.map"
   },
   "entrypoints": [
     "static/css/main.0ac4b3be.css",
-    "static/js/main.03e5fd87.js"
+    "static/js/main.b041928e.js"
   ]
 }
